@@ -1,4 +1,4 @@
-- 👋 Hi, I self identify with @microbrewerGM now
+- 👋 Hi, I self identify as @microbrewerGM now
 - 👀 I’m interested in the stuff here
 - 🌱 I’m currently learning the stuff here
 - 💞️ I’m looking to collaborate on the stuff here
