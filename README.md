@@ -1,6 +1,6 @@
-- 👋 Hi, I self identify as @microbrewerGM now
+- 👋 Hi, I'm @microbrewerGM
 - 👀 I’m interested in the stuff here
-- 🌱 I’m currently learning the stuff here
+- 🌱 I’m always learning more with the stuff here
 - 💞️ I’m looking to collaborate on the stuff here
 - 📫 Reach me via Github
 
